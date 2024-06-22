@@ -1,0 +1,28 @@
+.container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav-pills {
+    margin-bottom: 20px;
+}
+
+.nav-link {
+    color: #333;
+}
+
+.nav-link.active {
+    color: #0069d9;
+}
+
+.tab-pane {
+    display: none;
+}
+
+.tab-pane.show {
+    display: block;
+}
